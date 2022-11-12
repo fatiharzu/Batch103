@@ -44,4 +44,18 @@ public class Civic implements Engine, Ac{
         System.out.println("Civic runs well");
     }
 
+    @Override
+    public void eco() {
+
+    }
+
+    @Override
+    public void gas() {
+
+    }
+
+    @Override
+    public void tsi() {
+
+    }
 }
